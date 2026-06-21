@@ -1,0 +1,6 @@
+{
+  "name": "Blush Nail Studio",
+  "description": "A modern, elegant, luxury nail salon website for Blush Nail Studio in Cape Town, South Africa, featuring a soft and beautiful color palette, interactive booking system, service menus, gallery, and an exquisite social feed.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
